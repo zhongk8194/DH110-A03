@@ -52,16 +52,20 @@ For my research, I decided to conduct a **participatory observation**. To accomp
 <br>
 
 ## Research Materials and Deliverables
-Here is the script for my interview. 
+Here is my contextual inquiry guide (interview script).
 <br>
-Here is the recording of the interview. 
+Here is the <a href="https://drive.google.com/file/d/1VkU-N8IdE86Y062FsJ73bp3Uz-Tt0hYr/view?usp=sharing"> recording</a> of the interview.
 <br>
 Here is the transcript of the interview. 
 <br>
 <br>
 
+Here are some insights and observations from the interview: 
+
 ## Reflection
-lorem ipsum
+What you learned and what you will do differently in the future
+Write a short paragraph reflecting on your experience of planning and conducting an interview. What did you learn about interviewing participants? What would you do differently next time?
+// notes: look at rubric
 
 
 
