@@ -24,23 +24,41 @@ The traditional solutions to satisfy the same needs are paper newspapers. Users 
 
 **What is(are) the limitation(s) that possibly would be improved with (digital) technology?**
 <br>
-Some current limitations of consuming news online is difficulty in sorting through content to find topics that are interesting to the user. News websites are abundant in information and 
+Some current limitations of consuming news online is difficulty in sorting through content to find topics that are interesting to the user. News websites are exteremely abundant in information, which can run into the risk of overwhelming the user. Thus, they could benefit from better content organization and information visualization.
 <br>
 <br>
 
 ## Target Users
 **What are the characteristics of users? (ex. demographics, preference, expertise)**
+<br>
+The demographics of news website users are typically those that are young adults and above and have access to a personal device to consume the content on. These users tend to have a desire to keep up-to-date with current events and enjoy learning about the world. Though users do not require any particular level of expertise to use the site, it would be of benefit to users to have prior knowledge with navigating websites, since news outlet websites tend to be more content heavy than other sites.
+<br>
+<br>
+
 **Where would the users do that activity? (i.e., context of use)**
+<br>
+anywhere - on the way to work, at home, anywhere that they can comfortably use their personal technological device
+<br>
+<br>
 **What would the users do to complete that activity? (e.g., goal, operation, method, action)**
+<br>
+goal: to understand current events and trending news 
+operation: go on the website and look around on the homepage to see if anything interests them. or, they would go on the site with a topic in mind to research, and go immediately to the search function 
 <br>
 <br>
 
 ## Research Methods and Plan
-Interview with direct / passive / participatory observation.
+<br>
+For my research, I decided to conduct a **participatory observation**. To accomplish this, I asked my roommate to complete a series of activities to explore news website usage patterns and also get an understanding of her thoughts on the visual design/ organization of the site. Please review the section below for the materials used.
 <br>
 <br>
 
-## Interview/Observation (Contextual Inquiry) Guide
+## Research Materials and Deliverables
+<br>
+Here is the script for my interview. 
+Here is the recording of the interview. 
+Here is the transcript of the interview. 
+
 Decide where to visit
 Decide what activities to observe/ what to ask to do
 Decide how to interact with the users 
