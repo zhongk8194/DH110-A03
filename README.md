@@ -10,11 +10,12 @@ The goal of the main activity of my project is to understand how users consume n
 <br>
 
 **What is the basic need involved for that activity?**
-higher version of esteem? -> need for knowledge. or is this self-actualization?
+This activity satisfies users' esteem needs. Through reading the news and gaining knowledge, users are able to find a feeling of accomplishment. Understanding the news can also lead to feelings of mastery, self-confidence, and independence in the users' improved understanding of the world. 
 <br>
 <br>
 
 **What is(are) the traditional/current solution(s) to satisfy the needs?**
+The traditional solutions to satisfy the same needs are paper newspapers. Users could choose to get their newspapers delivered on the daily, or pick them up at stores. These newspapers contain similar information to that on news websites; they cover a wide range of news spanning from local announcements to worldwide events. Other current solutions that satisfy the same needs as news websites are television news channels. The parent of news websites, these channels allow users to consume thesame information, but with arguably less freedom. Users simply turn on their televisions to listen to news anchors, but have no ability to explore different topics from the same news outlet. 
 <br>
 <br>
 
