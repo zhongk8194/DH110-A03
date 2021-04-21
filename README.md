@@ -52,9 +52,10 @@ For my research, I decided to conduct a **participatory observation**. To accomp
 <br>
 
 ## Research Materials and Deliverables
-<br>
 Here is the script for my interview. 
+<br>
 Here is the recording of the interview. 
+<br>
 Here is the transcript of the interview. 
 <br>
 <br>
