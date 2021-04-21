@@ -52,7 +52,7 @@ For my research, I decided to conduct a **participatory observation**. To accomp
 <br>
 
 ## Research Materials and Deliverables
-Here is my contextual inquiry guide (interview script).
+Here is my <a href="https://docs.google.com/document/d/1hlftcgTstTGgIyE7GM145e0d-cWfpP69Q2iNJLMXvCg/edit?usp=sharing"> contextual inquiry guide</a> (interview script).
 <br>
 Here is the <a href="https://drive.google.com/file/d/1VkU-N8IdE86Y062FsJ73bp3Uz-Tt0hYr/view?usp=sharing"> recording</a> of the interview.
 <br>
