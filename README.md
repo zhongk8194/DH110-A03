@@ -37,19 +37,17 @@ The demographics of news website users are typically those that are young adults
 
 **Where would the users do that activity? (i.e., context of use)**
 <br>
-anywhere - on the way to work, at home, anywhere that they can comfortably use their personal technological device
+Users can consume news anywhere — at home, on the way to work, or any location where they can comfortably use their personal technological device with internet connection. Users will most likely perform such an activity when they have time to spare or do not have any pressing tasks to attend to.
 <br>
 <br>
 **What would the users do to complete that activity? (e.g., goal, operation, method, action)**
 <br>
-goal: to understand current events and trending news 
-operation: go on the website and look around on the homepage to see if anything interests them. or, they would go on the site with a topic in mind to research, and go immediately to the search function 
+The goals of a user would be to learn about current events and trending news. To accomplish their goal, they would likely search for news on a search engine, or visit a news site that they are familiar with. Once on a website, the user would either look around on the homepage to see if anything interests them, or they would search for a specific topic that they have in mind and find relevant articles. 
 <br>
 <br>
 
 ## Research Methods and Plan
-<br>
-For my research, I decided to conduct a **participatory observation**. To accomplish this, I asked my roommate to complete a series of activities to explore news website usage patterns and also get an understanding of her thoughts on the visual design/ organization of the site. Please review the section below for the materials used.
+For my research, I decided to conduct a **participatory observation**. To accomplish this, I interviewed my roommate about her experiences with consuming news, and also asked her to complete a series of activities. With these methods, I hoped to explore news website usage patterns and also get an understanding of her thoughts on the visual design/ organization of the site. Please review the section below for the materials I used.
 <br>
 <br>
 
@@ -58,20 +56,8 @@ For my research, I decided to conduct a **participatory observation**. To accomp
 Here is the script for my interview. 
 Here is the recording of the interview. 
 Here is the transcript of the interview. 
-
-Decide where to visit
-Decide what activities to observe/ what to ask to do
-Decide how to interact with the users 
-Decide how to collect user data (ex. Pen-paper notes, voice/video recording, images)
-Prepare the interview guide
 <br>
 <br>
-
-## Research Deliverables
-Visit the place
-Meet/Observe the user(s)
-Collect the data (record, pictures, answered_survey)
-Transcript of interview
 
 ## Reflection
 lorem ipsum
