@@ -56,7 +56,7 @@ Here is my <a href="https://docs.google.com/document/d/1hlftcgTstTGgIyE7GM145e0d
 <br>
 Here is the <a href="https://drive.google.com/file/d/1VkU-N8IdE86Y062FsJ73bp3Uz-Tt0hYr/view?usp=sharing"> recording</a> of the interview.
 <br>
-Here is the <a href="https://docs.google.com/document/d/1xtRzBcJwGVAmGYNDwP17aa-HhXJwSuUqNOWigxoyucw/edit?usp=sharing" transcript</a> of the interview. 
+Here is the <a href="https://docs.google.com/document/d/1xtRzBcJwGVAmGYNDwP17aa-HhXJwSuUqNOWigxoyucw/edit?usp=sharing"> transcript</a> of the interview. 
 <br>
 <br>
 
