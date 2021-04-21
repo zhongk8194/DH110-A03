@@ -65,7 +65,7 @@ Here are some insights and observations from the interview:
 ## Reflection
 What you learned and what you will do differently in the future
 Write a short paragraph reflecting on your experience of planning and conducting an interview. What did you learn about interviewing participants? What would you do differently next time?
-// notes: look at rubric
+// notes: look at rubric, also stopped at 7:50 for transcript
 
 
 
