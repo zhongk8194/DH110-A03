@@ -56,16 +56,24 @@ Here is my <a href="https://docs.google.com/document/d/1hlftcgTstTGgIyE7GM145e0d
 <br>
 Here is the <a href="https://drive.google.com/file/d/1VkU-N8IdE86Y062FsJ73bp3Uz-Tt0hYr/view?usp=sharing"> recording</a> of the interview.
 <br>
-Here is the transcript of the interview. 
+Here is the <a href="https://docs.google.com/document/d/1xtRzBcJwGVAmGYNDwP17aa-HhXJwSuUqNOWigxoyucw/edit?usp=sharing" transcript</a> of the interview. 
 <br>
 <br>
 
 Here are some insights and observations from the interview: 
+1. The user felt like the website she visited was too cluttered.
+_"I don't think I would go back [to the site]. I'm just like, this is just like, too cluttered for me."_
+
+2. The user noticed that a lot of links didn't look clickable, and she also pointed out the fact that users would have to keep going back to the homepage to read other related articles.
+_"Like, if you're trying to like explore the news for not one specific topic, you have to keep coming back to this page."_
+
+3. The user noted that depending on the category of the news, there should be different information visualization techniques implmented. For example, we agreed that for news about travel, articles could be more image heavy and lighter on the text. 
+_"Oh, you're right. Like, we could consider the different categories. Like, for travel or something, maybe it's like more image heavy or something like that, but if it’s like politics or something then maybe it's more text."_
 
 ## Reflection
-What you learned and what you will do differently in the future
-Write a short paragraph reflecting on your experience of planning and conducting an interview. What did you learn about interviewing participants? What would you do differently next time?
-// notes: look at rubric, also stopped at 7:50 for transcript
+This research was a great way for me to learn about the different thoughts users might have when visiting a news site. By asking my interviewee to perform two tasks that simulate two different reasons why a user might visit a news site, I was able to gain insight into potential problems that users might face. For example, I learned that users may feel overwhelmed, since these sites are typically very cluttered with text and images. In terms of the interview process, it went very smoothly. However, after viewing my recording, I realized that some of the audio was too quiet. Next time, I would encourage users to speak louder, or I would simultaneously interview and record the audio on my phone. 
+
+From this research, I also learned a lot about how to interact with users and make them comfortable to share their opinions. I would love to interview more users in the future so that I can get opinions from a wider audience range. 
 
 
 
